@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Jigish Solanki<br />
-⌨ I’m Software Engineer with 7.5 years of experience in Core PHP, WordPress, Shopify, Laravel & ReactJs. <br />
+⌨ I’m Software Engineer with 7.5 years of experience in <b>Core PHP</b>, <b>WordPress</b>, <b>Shopify</b>, <b>Laravel</b> & <b>ReactJs</b>. <br />
 🌱 I’m growing as a Fullstack Developer <br />
 
 <!--
