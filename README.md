@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jigish Solanki :flag_india:
+⌨ I’m Software Engineer with 7.5 years of experience in Core PHP, WordPress, Shopify, Laravel & ReactJs. 
+🌱 I’m growing as a Fullstack Developer
+
 <!--
 **JigishS/jigishs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
